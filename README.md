@@ -9,3 +9,5 @@
 # 2. Analisis Exploratorio de Datos - EDA
 
 # 3. Modelo
+
+# 4. Verificación
